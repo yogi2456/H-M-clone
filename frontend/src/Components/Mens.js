@@ -47,7 +47,7 @@ const Mens = () => {
             </div>
         </div>
 
-        <div className="member">
+        <div className="member10">
             <div>
                 <p>HM.com</p>
                 <p>/</p>

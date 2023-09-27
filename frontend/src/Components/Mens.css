@@ -68,21 +68,21 @@
     border: 1px solid black;
     margin-top: 5px;
 }
-.member {
+.member10 {
     width: 100%;
     height: 40px;
     margin-top: 30px;
 }
-.member > div:nth-child(1) {
+.member10 > div:nth-child(1) {
     width: 7%;
     margin: auto;
     display: flex;
     font-size: 14px;
 }
-.member > div > p:nth-child(2) {
+.member10 > div > p:nth-child(2) {
     margin-left: 5px;
 }
-.member > div > p:nth-child(3) {
+.member10 > div > p:nth-child(3) {
     margin-left: 5px;
     color: red;
 }

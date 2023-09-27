@@ -5,7 +5,7 @@ const Header = () => {
     return (
 
         <>
-        <div className="screen">
+        <div className="screen10">
         <div className="navbar">
             <div>
                 <div className="custom">
