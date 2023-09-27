@@ -4,9 +4,9 @@ import './Login.css'
 const Login = () => {
     return (
         <>
-        <div className="screen">
-        <div className="screen1">
-            <div className="screen2">
+        <div className="screen20">
+        <div className="screen13">
+            <div className="screen21">
                 <div>
                     <h2>Sign in</h2>
                     <p><i class="fa-solid fa-xmark fa-xl"></i></p>
@@ -14,27 +14,27 @@ const Login = () => {
                 <div className="become">
                     <p>Become a member — don’t miss out on deals, offers, discounts and bonus vouchers.</p>
                 </div>
-                <div className="email">
+                <div className="email10">
                     <p>Email*</p>
                 </div>
-                <div className="email1">
+                <div className="email11">
                     <p></p>
                 </div>
-                <div className="password">
+                <div className="password10">
                     <p>Password*</p>
                 </div>
-                <div className="password1">
+                <div className="password11">
                     <p>SHOW</p>
                 </div>
-                <div className="remember">
+                <div className="remember11">
                     <p></p>
                     <p>Remember me</p>
                     <p>Forgot password?</p>
                 </div>
-                <div className="remember1">
+                <div className="remember12">
                     <p>Sign in</p>
                 </div>
-                <div className="remember2">
+                <div className="remember22">
                     <p>Become a member</p>
                 </div>
                 <p className="info">Membership info</p>
