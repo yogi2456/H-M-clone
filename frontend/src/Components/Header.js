@@ -41,7 +41,7 @@ const Header = () => {
             </div>
             <div className="right">
                 <div>
-                    <p><i class="fa-solid fa-magnifying-glass fa-xl" style="color: #090404;"></i></p>
+                    <p><i class="fa-solid fa-magnifying-glass fa-xl" style={{color: "#090404"}}></i></p>
                     <p>Search Products</p>
                 </div>
                 <div></div>
