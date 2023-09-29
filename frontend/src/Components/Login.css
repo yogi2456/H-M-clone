@@ -35,6 +35,7 @@
 }
 .email10 {
     margin-top: 30px;
+    font-weight: bold;
 }
 .email10 > :nth-child(1) {
     font-size: 14px;
@@ -48,6 +49,7 @@
 }
 .password10 {
     margin-top: 30px;
+    font-weight: bold;
 }
 .password10 > :nth-child(1) {
     font-size: 14px;
@@ -93,7 +95,7 @@
     color: white;
     font-size: 18px;
     margin-left: 45%;
-    margin-top: 15px;
+    margin-top: 12px;
 }
 .remember22 {
     width: 100%;
@@ -103,8 +105,8 @@
 }
 .remember22 > p {
     font-size: 18px;
-    margin-left: 35%;
-    margin-top: 15px;
+    margin-left: 33%;
+    margin-top: 12px;
 }
 .info {
     margin-top: 15px;

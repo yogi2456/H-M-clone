@@ -47,6 +47,7 @@
 }
 .email > p {
     font-size: 16px;
+    text-align: left;
 }
 .email1 {
     width: 100%;
@@ -56,6 +57,7 @@
 }
 .password > p {
     font-size: 16px;
+    text-align: left;
 }
 .password1 {
     width: 100%;
@@ -66,14 +68,16 @@
 .password1 > p {
     margin-left: 87%;
     font-size: 16px;
-    margin-top: 11px;
+    margin-top: 8px;
 }
 .char {
     color: gray;
+    text-align: left;
 }
 .date {
     margin-top: 0px;
     font-size: 16px;
+    text-align: left;
 }
 .date1 {
     display: flex;
@@ -85,6 +89,7 @@
 .date1 > p {
     font-size: 16px;
     width: 50%;
+    margin-top: 8px;
 }
 .date1 > p:nth-child(1) {
     margin-left: 100px;
@@ -95,6 +100,7 @@
 .want {
     font-size: 16px;
     color: gray;
+    text-align: left;
 }
 .add {
     display: flex;
@@ -109,7 +115,7 @@
 .check {
     width: 100%;
     display: flex;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 .check > p:nth-child(1) {
     width: 20px;
@@ -131,8 +137,7 @@
 .remember1 > p {
     color: black;
     font-size: 18px;
-    margin-left: 5%;
-    margin-top: 15px;
+    margin-top: 12px;
 }
 .remember2 {
     width: 100%;
@@ -143,7 +148,6 @@
 }
 .remember2 > p {
     font-size: 18px;
-    margin-left: 5%;
     margin-top: 10px;
     color: white;
 }
