@@ -6,6 +6,7 @@ import Mens from './Components/Mens';
 import Login from './Components/Login';
 import Register from './Components/Register';
 import Header from './Components/Header';
+import Footer from './Components/Footer';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route exact path='/Login' element={<Login />} />
         <Route exact path='/Register' element={<Register />} />
       </Routes>
+      <Footer />
     </div>
   );
 }
