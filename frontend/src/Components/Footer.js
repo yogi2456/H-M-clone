@@ -2,7 +2,6 @@ import './Footer.css'
 
 const Footer = () => {
     return (
-        <div className="screen20">
         <div className="shop">
             <div className="shop1">
                 <div className="section">
@@ -53,8 +52,7 @@ const Footer = () => {
                     <p>INDIA | Rs.</p>
                 </div>
             </div>
-        </div>
-        </div>   
+        </div> 
     )
 }
 

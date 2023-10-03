@@ -2,14 +2,11 @@
     margin: 0;
     padding: 0;
 }
-.screen {
-    width: 100%;
-    height: 2000px;
-}
 .member10 {
     width: 100%;
     height: 40px;
     margin-top: 30px;
+    margin-top: -1860px;
 }
 .member10 > div:nth-child(1) {
     width: 7%;
@@ -36,6 +33,7 @@
 }
 .right1 {
     width: 80%;
+
 }
 .member > h3 {
     font-size: 16px;

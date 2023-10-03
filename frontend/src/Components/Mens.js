@@ -4,15 +4,6 @@ import './Mens.css'
 const Mens = () => {
     return (
         <>
-        <div className="screen">
-
-        <div className="member10">
-            <div>
-                <p>HM.com</p>
-                <p>/</p>
-                <p>Men</p>
-            </div>
-        </div>
 
         <div className="price">
             <div className="left1">
@@ -62,6 +53,13 @@ const Mens = () => {
                 </div>
             </div>
             <div className="right1">
+            <div className="member10">
+            <div>
+                <p>HM.com</p>
+                <p>/</p>
+                <p>Men</p>
+            </div>
+        </div>
                 <div className="mens">
                         <div class="mens1"></div>
                         <h1>A/W 2023</h1>
@@ -95,7 +93,7 @@ const Mens = () => {
                 </div>
             </div>
         </div>
-    </div>
+    
         </>
     )
 }
