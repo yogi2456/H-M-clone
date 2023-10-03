@@ -5,10 +5,12 @@ import Homepage from './Components/Homepage';
 import Mens from './Components/Mens';
 import Login from './Components/Login';
 import Register from './Components/Register';
+import Header from './Components/Header';
 
 function App() {
   return (
     <div className="App">
+      <Header />
       <Routes>
         <Route exact path ='/' element={<Homepage />} />
         <Route exact path='/Mens' element={<Mens />} />
