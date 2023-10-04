@@ -4,7 +4,7 @@ import './Mens.css'
 const Mens = () => {
     return (
         <>
-
+        <div className="bg2color">
         <div className="price">
             <div className="left1">
                 <div className="member">
@@ -92,6 +92,7 @@ const Mens = () => {
                     <p>Read more</p>
                 </div>
             </div>
+        </div>
         </div>
     
         </>

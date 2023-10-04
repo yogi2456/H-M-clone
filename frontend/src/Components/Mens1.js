@@ -3,7 +3,7 @@ import './Mens1.css'
 const Mens1 = () => {
     return (
         <>
-        <div>
+        <div className='bg1color'>
             <div className='hoodies'>
                 <p>HM.com</p>
                 <p>/</p>
@@ -130,10 +130,59 @@ const Mens1 = () => {
                         <p>Style with</p>
                     </div>
                     <div className='relaxr22'>
-                        <div></div>
-                        <div></div>
-                        <div></div>
-                        <div></div>
+                        <div>
+                            <img style={{width: "100%", height: "100%"}} src='https://lp2.hm.com/hmgoepprod?set=source[/36/46/364682a19ed4be0379796743142acdd59d979b01.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]' />
+                            <p>Chunky Derby Shoes</p>
+                            <p>Rs.3,999.00</p>
+                            <p>Member price Rs.3,399.00</p>
+                        </div>
+                        <div>
+                            <img style={{width: "100%", height: "100%"}} src='https://lp2.hm.com/hmgoepprod?set=source[/f9/06/f906d6ed16d657b7e4f243fd2f1e63727d153ec9.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]' />
+                            <p>Relaxed Fit Trousers</p>
+                            <p>Rs.2,699.00</p>
+                            <p>New Arrival</p>
+                        </div>
+                        <div>
+                            <img style={{width: "100%", height: "100%"}} src='https://lp2.hm.com/hmgoepprod?set=source[/53/4b/534b6afcf7182a3aaa86b056bbde52f94c9b9ee7.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]' />
+                            <p>Loose Fit Overshirt</p>
+                            <p>Rs.2,999.00</p>
+                        </div>
+                        <div>
+                            <img style={{width: "100%", height: "100%"}} src='https://lp2.hm.com/hmgoepprod?set=source[/df/01/df01f1eefbff1c94c4db91bea83638d4a36eec21.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]' />
+                            <p>Trainers</p>
+                            <p>Rs.2,299.00</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div className='relaxr19'>
+                <div className='relaxr20'>
+                    <div className='relaxr23'>
+                        <p>Others also bought</p>
+                    </div>
+                    <div className='relaxr24'>
+                        <div>
+                            <img style={{width: "100%", height: "100%"}} src='https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0e%2Fca%2F0eca95eb5d300b9fcdb26d65d711626a617f6df7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/fullscreen]' />
+                            <p>Relaxed Fit Zip-top Sweatshirt</p>
+                            <p>Rs.2,299.00</p>
+                        </div>
+                        <div>
+                            <img style={{width: "100%", height: "100%"}} src='https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Feb%2F6a%2Feb6a116316b160235f365ce6dcdea9bbb843c0c9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/fullscreen]' />
+                            <p>Oversized Fit Hot-zip Sweatshirts</p>
+                            <p>Rs.1,999.00</p>
+                        </div>
+                        <div>
+                            <img style={{width: "100%", height: "100%"}} src='https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe8%2F3e%2Fe83ee8e806d5bec3d0a17be2b387fd80349efc5f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/fullscreen]' />
+                            <p>Oversized Fit Hot-zip Sweatshirt</p>
+                            <p>Rs.1,999.00</p>
+                        </div>
+                        <div>
+                            <img style={{width: "100%", height: "100%"}} src='https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F97%2Fba%2F97ba4413e92cf6ccb761d5e96adccf4a6f9e19e6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jacketscoats_jackets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/fullscreen]' />
+                            <p>Oversized Fit Baseball Jacket</p>
+                            <p>Rs.3,999.00</p>
+                            <p>New Arrival</p>
+                        </div>
                     </div>
                 </div>
             </div>

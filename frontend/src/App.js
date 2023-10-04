@@ -8,6 +8,7 @@ import Register from './Components/Register';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 import Mens1 from './Components/Mens1';
+import Shoppingbag from './Components/Shoppingbag';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route exact path='/Mens1' element={<Mens1 />} />
         <Route exact path='/Login' element={<Login />} />
         <Route exact path='/Register' element={<Register />} />
+        <Route exact path='/Shoppingbag' element={<Shoppingbag />} />
       </Routes>
       <Footer />
     </div>
