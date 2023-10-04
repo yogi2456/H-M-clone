@@ -7,6 +7,7 @@ import Login from './Components/Login';
 import Register from './Components/Register';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
+import Mens1 from './Components/Mens1';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Routes>
         <Route exact path ='/' element={<Homepage />} />
         <Route exact path='/Mens' element={<Mens />} />
+        <Route exact path='/Mens1' element={<Mens1 />} />
         <Route exact path='/Login' element={<Login />} />
         <Route exact path='/Register' element={<Register />} />
       </Routes>

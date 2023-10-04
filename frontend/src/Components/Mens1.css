@@ -1,0 +1,253 @@
+.hoodies {
+    display: flex;
+    font-size: 12px;
+    width: 35%;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: -1825px;
+}
+.hoodies > p:nth-child(9) {
+    color: red;
+}
+.relax {
+    width: 95%;
+    margin: auto;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.relaxleft {
+    width: 65%;
+    border: 1px solid black;
+}
+.relaxl {
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid green;
+}
+.relaxl > div {
+    width: 49.4%;
+    height: 700px;
+    border: 1px solid brown;
+}
+.relaxl1 {
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid green;
+    margin-top: 10px;
+}
+.relaxl1 > div {
+    width: 49.4%;
+    height: 700px;
+    border: 1px solid brown;
+}
+.relaxl2 {
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid green;
+    margin-top: 10px;
+}
+.relaxl2 > div {
+    width: 49.4%;
+    height: 700px;
+    border: 1px solid brown;
+}
+.relaxl3 {
+    width: 50%;
+    margin: auto;
+    height: 700px;
+    margin-top: 10px;
+}
+.relaxl3 > div {
+    width: 100%;
+    height: 700px;
+    border: 1px solid brown;
+}
+
+.relaxright {
+    width: 32%;
+    border: 1px solid red;
+}
+.relaxr1 {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.relaxr1 > p:nth-child(1) {
+    font-size: 18px;
+    font-weight: bold;
+}
+.relaxr2 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: left;
+}
+.relaxr3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 40px;
+    text-align: left;
+}
+.relaxr4 {
+    width: 45%;
+    height: 100px;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.relaxr4 > div {
+    width: 31%;
+    height: 100px;
+    border: 1px solid red;
+}
+.relaxr5 {
+    font-size: 16px;
+    margin-top: 20px;
+    text-align: left;
+}
+.relaxr6 {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.relaxr6 > button {
+    width: 18%;
+    height: 40px;
+    border: 1px solid gray;
+    background-color: white;
+}
+.relaxr7 > button {
+    width: 18%;
+    height: 40px;
+    margin-top: 20px;
+    background-color: white;
+    border: 1px solid gray;
+    margin-right: 380px;
+}
+.relaxr8 {
+    font-size: 16px;
+    margin-top: 20px;
+    text-align: left;
+    text-decoration-line: underline;
+}
+.relaxr9 {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: white;
+    display: flex;
+    margin-top: 10px;
+}
+.relaxr9 > p {
+    margin-top: 10px;
+}
+.relaxr9 > P:nth-child(1) {
+    margin-left: 200px;
+}
+.relaxr9 > p:nth-child(2) {
+    margin-left: 10px;
+}
+.relaxr10 {
+    margin-top: 30px;
+}
+.relaxr10 > p {
+    font-size: 16px;
+    text-align: left;
+}
+.relaxr11 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.relaxr12 {
+    margin-top: 70px;
+    display: flex;
+}
+.relaxr13 {
+    font-size: 14px;
+    margin-top: 20px;
+    text-align: left;
+}
+.relaxr14 {
+    width: 100%;
+    display: flex;
+    margin-top: 5px;
+}
+.relaxr14 > p:nth-child(1) {
+    width: 48%;
+    border: 1px solid black;
+    height: 0;
+}
+.relaxr14 > p:nth-child(2) {
+    width: 12px;
+    height: 12px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: -4px;
+}
+.relaxr14 > p:nth-child(3) {
+    width: 49%;
+    border: 1px solid black;
+    height: 0;
+}
+.relaxr15 {
+    display: flex;
+    margin-top: 15px;
+    font-size: 16px;
+    color: gray;
+}
+.relaxr15 > p:nth-child(2) {
+    margin-left: 165px;
+}
+.relaxr15 > p:nth-child(3) {
+    margin-left: 145px;
+}
+.relaxr16 {
+    border: 1px solid gray;
+    margin-top: 80px;
+    opacity: 0.3;
+}
+.relaxr17 {
+    width: 92%;
+    margin: auto;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+.relaxr18 {
+    border: 1px solid gray;
+    margin-top: 20px;
+    opacity: 0.3;
+}
+.relaxr19 {
+    width: 100%;
+    height: 700px;
+    border: 1px solid blue;
+}
+.relaxr20 {
+    width: 80%;
+    margin: auto;
+}
+.relaxr21 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 200px;
+}
+.relaxr22 {
+    width: 100%;
+    height: ;
+}
